@@ -6,7 +6,12 @@
 #+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
 #+PROPERTY: FILE SB02n0035-000劉向古列女傳-序.
+
+# SB1_0265-004.png
+# page missing(to SB1_0265-021)
+
 <pb:KR2g0017_SBCK_000-1a>¶
+# SB1_0265-022.png
 劉向古列女傳小序¶
 　　母儀傳¶
 惟若母儀賢聖有智行為儀表言則中義胎飬子孫¶
